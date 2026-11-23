@@ -1,0 +1,20 @@
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directories (not applicable for this pure HTML project)
+node_modules/
+
+# Build outputs (not applicable)
+dist/
+build/
